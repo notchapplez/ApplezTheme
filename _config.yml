@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: ApplezTheme
+description: "An experimental Jekyll theme by notchapplez."
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
